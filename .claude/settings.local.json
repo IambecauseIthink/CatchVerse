@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ar.rokid.com)",
+      "Bash(mkdir:*)",
+      "Bash(touch:*)",
+      "Bash(python:*)"
+    ],
+    "deny": []
+  }
+}
