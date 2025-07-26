@@ -4,7 +4,12 @@
       "WebFetch(domain:ar.rokid.com)",
       "Bash(mkdir:*)",
       "Bash(touch:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(npm run lint)",
+      "Bash(yarn lint)",
+      "Bash(pnpm lint)",
+      "Bash(pip install:*)",
+      "Bash(flake8:*)"
     ],
     "deny": []
   }
